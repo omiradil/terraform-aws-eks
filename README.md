@@ -1,7 +1,7 @@
 # Terraform EKS
 
 ```
-This provider files:       provider.tf
+This provider has files:       provider.tf
                            data.tf
                            eks.tf
                            variables.tf
@@ -9,7 +9,7 @@ This provider files:       provider.tf
                            README.md
 ```
 
-## Please add below code
+## below is terraform.auto.tfvrs file's code
 
 ```
 region          = "us-east-1"
