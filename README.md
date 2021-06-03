@@ -1,7 +1,9 @@
 # Terraform EKS
 
 ```
-This provider has files:       provider.tf
+This repository is used to build Kubernetes Cluster on AWS with Terraform
+
+Files on repo :                provider.tf
                                data.tf
                                eks.tf
                                variables.tf
