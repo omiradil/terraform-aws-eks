@@ -2,11 +2,11 @@
 
 ```
 This provider has files:       provider.tf
-                           data.tf
-                           eks.tf
-                           variables.tf
-                           terraform.auto.tfvrs
-                           README.md
+                               data.tf
+                               eks.tf
+                               variables.tf
+                               terraform.auto.tfvrs
+                               README.md
 ```
 
 ## below is terraform.auto.tfvrs file's code
